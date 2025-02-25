@@ -7,4 +7,10 @@ dist/
 build/
 
 # System files
-.DS_Store 
+.DS_Store
+
+# Project specific
+.cursor/
+hub.txt
+skills.txt
+aussieangels.mdc 
